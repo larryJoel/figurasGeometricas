@@ -1,0 +1,30 @@
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\bin\Debug\net6.0\Nueva carpeta.exe
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\bin\Debug\net6.0\Nueva carpeta.deps.json
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\bin\Debug\net6.0\Nueva carpeta.runtimeconfig.json
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\bin\Debug\net6.0\Nueva carpeta.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\bin\Debug\net6.0\Nueva carpeta.pdb
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.csproj.AssemblyReference.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.AssemblyInfo.cs
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.csproj.CoreCompileInputs.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\obj\Debug\net6.0\refint\Nueva carpeta.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.pdb
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.genruntimeconfig.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\Nueva carpeta\obj\Debug\net6.0\ref\Nueva carpeta.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\bin\Debug\net6.0\Nueva carpeta.exe
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\bin\Debug\net6.0\Nueva carpeta.deps.json
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\bin\Debug\net6.0\Nueva carpeta.runtimeconfig.json
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\bin\Debug\net6.0\Nueva carpeta.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\bin\Debug\net6.0\Nueva carpeta.pdb
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\obj\Debug\net6.0\Nueva carpeta.csproj.AssemblyReference.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\obj\Debug\net6.0\Nueva carpeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\obj\Debug\net6.0\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\obj\Debug\net6.0\Nueva carpeta.AssemblyInfo.cs
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\obj\Debug\net6.0\Nueva carpeta.csproj.CoreCompileInputs.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\obj\Debug\net6.0\Nueva carpeta.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\obj\Debug\net6.0\refint\Nueva carpeta.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\obj\Debug\net6.0\Nueva carpeta.pdb
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\obj\Debug\net6.0\Nueva carpeta.genruntimeconfig.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\figurasGeometricas\obj\Debug\net6.0\ref\Nueva carpeta.dll
